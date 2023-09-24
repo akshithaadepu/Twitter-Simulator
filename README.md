@@ -1,7 +1,6 @@
 Project Teammates : 
-Shanmukha Anurag, Sajja (UFID : 58715595)
 Akshitha, Adepu (UFID: 12589466)
-
+Shanmukha Anurag, Sajja (UFID : 58715595)
 
 
 TO RUN THE DEMONSTRATION
